@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+parmalink: /docs/softwareEng2025
+---
+
 ## ソフトウェア工学とは
 ソフトウェア工学は「品質」、「コスト」、「納期」の最適なバランスを実現するための手法・方法論のことである。ソフトウェア工学は以下の４つの理由から必要な工学である。　　
 >1. 大規模化と複雑さ  
